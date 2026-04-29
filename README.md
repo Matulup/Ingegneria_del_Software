@@ -1,6 +1,6 @@
 # App scacchi [![Continuous Integration and Continuous Delivery (CI/CD)](https://github.com/softeng2425-inf-uniba/project2-le-cun/actions/workflows/CI-CD.yml/badge.svg)](https://github.com/softeng2425-inf-uniba/project2-le-cun/actions/workflows/CI-CD.yml)
 
-![scacchiera](scacchiera.png)
+![scacchiera](scacchiera.png) 
 
 ## Descrizione
 
